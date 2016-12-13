@@ -1,0 +1,9 @@
+D:\GitHub\CodecHelper\CodecHelperTest\bin\Debug\CodecHelperTest.dll.config
+D:\GitHub\CodecHelper\CodecHelperTest\bin\Debug\CodecHelperTest.dll
+D:\GitHub\CodecHelper\CodecHelperTest\bin\Debug\CodecHelperTest.pdb
+D:\GitHub\CodecHelper\CodecHelperTest\bin\Debug\CodecHelper.dll
+D:\GitHub\CodecHelper\CodecHelperTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\GitHub\CodecHelper\CodecHelperTest\bin\Debug\CodecHelper.pdb
+D:\GitHub\CodecHelper\CodecHelperTest\obj\Debug\CodecHelperTest.csprojResolveAssemblyReference.cache
+D:\GitHub\CodecHelper\CodecHelperTest\obj\Debug\CodecHelperTest.dll
+D:\GitHub\CodecHelper\CodecHelperTest\obj\Debug\CodecHelperTest.pdb

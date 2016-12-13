@@ -1,0 +1,5 @@
+D:\GitHub\CodecHelper\CodecHelper\bin\Debug\CodecHelper.dll.config
+D:\GitHub\CodecHelper\CodecHelper\bin\Debug\CodecHelper.dll
+D:\GitHub\CodecHelper\CodecHelper\bin\Debug\CodecHelper.pdb
+D:\GitHub\CodecHelper\CodecHelper\obj\Debug\CodecHelper.dll
+D:\GitHub\CodecHelper\CodecHelper\obj\Debug\CodecHelper.pdb
